@@ -107,5 +107,6 @@ rs.initiate()
 | Quotes Feature              | ✅ Add + List  |
 
 ## Handwritten Notes
-![Notes1](../notes/notes1.jpg)
-![Notes2](../notes/notes2.jpg)
+![Notes1](../notes/notes 1.jpg)
+![Notes2](../notes/notes 2.jpg)
+![Notes3](../notes/notes 3.jpg)
